@@ -8,7 +8,9 @@ No entanto, os mensageiros podem ser capturados pela cidade fortificada, fazendo
 
 <h1>O Projeto:</h1>
 
-Esse projeto foi desenvolvido utilizando a linguagem de programação Python (versão 3.9.2), com tempos pré-determinados a fim de definir se um mensageiro foi capturado ou não em sua travessia, sendo que a captura foi definida por meio de probabilidades.
+Esse projeto foi desenvolvido utilizando a linguagem de programação Python (versão 3.9.2) com o objetivo de exemplificar o problema, porém, de uma maneira solúvel. 
+<br>
+Foram configurados tempos pré-determinados a fim de definir se um mensageiro foi capturado ou não em sua travessia, sendo que a captura foi definida por meio de probabilidades.
 Ademais, há um limite pré-determinado de mensageiros, sendo 5 do exército vermelho e 10 do exército azul.
 <br><br>
 Nesse projeto, o algoritmo finaliza em duas situações:
